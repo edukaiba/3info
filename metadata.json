@@ -1,0 +1,6 @@
+{
+  "name": "EEEP Júlio França - Informática",
+  "description": "Portal escolar do 3º ano do curso de informática da EEEP Júlio França, com autenticação e formulário de contato via Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
